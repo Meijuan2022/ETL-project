@@ -1,0 +1,2 @@
+date,visibility,weather.id,weather.main,weather.description,weather.icon,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+2023-05-03 23:57:47,2300,804,Clouds,overcast clouds,04n,272.21,266.42,272.21,272.21,1023,93,6.17,330,100,1,1775,SE,1683078368,1683141046

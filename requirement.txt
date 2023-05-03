@@ -1,0 +1,7 @@
+airflow
+pandas
+numpy
+matplotlib
+requests
+configparser
+os

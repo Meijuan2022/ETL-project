@@ -1,0 +1,2 @@
+date,visibility,weather.id,weather.main,weather.description,weather.icon,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,wind.gust,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+2023-05-03 23:57:48,10000,800,Clear,clear sky,01n,277.95,276.42,275.56,280.1,1023,61,1.87,322,1.95,0,2,2007551,SE,1683084123,1683139659

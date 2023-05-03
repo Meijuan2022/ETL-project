@@ -1,0 +1,2 @@
+date,visibility,weather.id,weather.main,weather.description,weather.icon,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+2023-05-03 23:57:48,10000,803,Clouds,broken clouds,04n,275.25,275.25,273.03,275.9,1023,84,0.51,140,75,2,2012100,SE,1683081911,1683139471
