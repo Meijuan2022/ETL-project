@@ -1,8 +1,8 @@
 # Weather-Data- ETL
-###Group-member: Meijuan Xia
+- Author: Meijuan Xia
 
 weather_data ETL  with airflow(not succeed)
---download weather data with different city from API and save them to json files and csv files, database
+-- download weather data with different city from API and save them to json files and csv files, database
 ## github: https://github.com/Meijuan2022/ETL-project
 
 # Tools
